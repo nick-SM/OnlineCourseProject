@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IPA</key>
+	<dict>
+		<key>Two Brothers Cane &amp; Ebel</key>
+		<dict>
+			<key>Location</key>
+			<string>Warrenville, IL</string>
+			<key>ABV</key>
+			<string>ABV 7.0%</string>
+			<key>Size</key>
+			<string>16oz</string>
+			<key>Price</key>
+			<string>$7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

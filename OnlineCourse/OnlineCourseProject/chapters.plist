@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapter 0</key>
+	<string>http://www.softwaremerchant.com/stream/chapter0/prog_index.m3u8</string>
+	<key>Chapter 1</key>
+	<string>http://www.softwaremerchant.com/stream/chapter1/prog_index.m3u8</string>
+	<key>Chapter 2</key>
+	<string>http://www.softwaremerchant.com/stream/chapter2/prog_index.m3u8</string>
+	<key>Chapter 2.1</key>
+	<string>http://www.softwaremerchant.com/stream/chapter2_1/prog_index.m3u8</string>
+</dict>
+</plist>

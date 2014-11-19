@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC62DB9B-8139-4D11-8BB9-17C66EFEC8BA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11DFA585D63F8927D36087EFB4644D3965818AEB</key>
+		<string>https://github.com/nick-SM/OnlineCourseProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11DFA585D63F8927D36087EFB4644D3965818AEB</key>
+		<string>OnlineCourseProject/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nick-SM/OnlineCourseProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11DFA585D63F8927D36087EFB4644D3965818AEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11DFA585D63F8927D36087EFB4644D3965818AEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OnlineCourseProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
